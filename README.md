@@ -9,6 +9,8 @@
 #### 🐣 Projects I'm working on currently:
 ##### > personal site
 ##### > ????
+#### 📲 Reach me at:
+##### > mail@fznk.me
 <!--
 **mysmyst/mysmyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
