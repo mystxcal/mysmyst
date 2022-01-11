@@ -1,11 +1,14 @@
 ## Hi there 👋
 #### 🤔 I'm a computers student and a software developer with experience in Python, Android, C/C++, UI/UX and Full-Stack web development.
 #### ⚙️ My personal website (under construction) is www.fznk.me
-#### 🐣 Projects i have worked on:
-##### AniCare animal rescue app
-##### ORBiTAL satellite viewer app
-##### HearIt app to teach children sounds
-##### GenEthos data synthesis, data generation and bias detection/mitigation tool
+#### 🐥 Projects I have worked on:
+##### > AniCare animal rescue app
+##### > ORBiTAL satellite viewer app
+##### > HearIt app to teach children sounds
+##### > GenEthos data synthesis, data generation and bias detection/mitigation tool
+#### 🐣 Projects I'm working on currently:
+##### > personal site
+##### > ????
 <!--
 **mysmyst/mysmyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
