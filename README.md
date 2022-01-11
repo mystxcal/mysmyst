@@ -1,6 +1,6 @@
-### Hi there 👋
-I'm a computers student and a software developer with experience in Python, Android, C/C++, UI/UX and Full-Stack web development.
-My personal website (under construction) is www.fznk.me
+## Hi there 👋
+###I'm a computers student and a software developer with experience in Python, Android, C/C++, UI/UX and Full-Stack web development.
+\n###My personal website (under construction) is www.fznk.me
 
 <!--
 **mysmyst/mysmyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
